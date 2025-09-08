@@ -2,9 +2,6 @@
 
 An interactive web application built with **Python** and **Streamlit** that predicts short-term stock price movements using a combination of **historical stock data**, **technical indicators**, and **real-time news sentiment analysis**. The app leverages machine learning to forecast price changes and provides visualizations for better decision-making.
 
-![App Screenshot](https://i.imgur.com/placeholder.png)  
-*(**Note**: Replace the link above with a screenshot of your app running.)*
-
 ---
 
 ## Features
